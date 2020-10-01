@@ -1,4 +1,4 @@
-A Room Booking System
+A Room Booking System - An Amazing Python based Project
 =====================
 
 This project forms part of the One Screenful of Python github organisation. For more
